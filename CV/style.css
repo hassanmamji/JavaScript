@@ -1,0 +1,37 @@
+.floating-image{
+    max-width: 250px;
+}
+
+.floating-image.right{
+    float: left;
+    margin-right: 30px;
+}
+
+h1{
+    /* position: fixed; */
+    text-align: center;
+    text-decoration: solid;
+    text-align: center;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4{
+    text-decoration: solid;
+    /* padding-top: 50px; */
+}
+
+.info{
+    font-weight: bold;
+}
+
+h2{
+    text-decoration: solid;
+    font-size: 30px;
+}
+
+span{
+    font-weight: bold;
+    font-size: 18px;
+}
+
